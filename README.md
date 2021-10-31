@@ -1,2 +1,1 @@
-# drum-machine
-Drum machine app
+This is my third project for the "front end development" libraries certification on freecodecamp.org. It involved building a drum machine app using React. I designed the app to be both responsive to different view ports and also ensuring accessibility.
